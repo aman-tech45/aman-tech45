@@ -1,16 +1,46 @@
-## Hi there 👋
+💫 About Me:
+👋 Hi there, I’m Aman Jha
 
-<!--
-**aman-tech45/aman-tech45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Artificial Intelligence & Machine Learning
+📊 Data Analyst with experience in HR Analytics & Business Intelligence
+🤖 Passionate about AI, Machine Learning, Data Science, and LLM Engineering
+🚀 Currently exploring advanced AI systems, analytics engineering, and scalable ML solutions
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on
+- Machine Learning & Data Analytics projects
+- Building AI-powered applications
+- Advanced SQL, Power BI & Python workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning
+- Generative AI & LLM Engineering
+- MLOps & AI deployment
+- Advanced Data Engineering concepts
+
+### 👯 I’m looking to collaborate on
+- Open-source AI/Data Science projects
+- Analytics dashboards & automation
+- Real-world ML applications
+
+### 💬 Ask me about
+- Python
+- Machine Learning
+- Data Analytics
+- Power BI
+- SQL
+- Data Visualization
+
+### ⚡ Fun fact
+I love discovering underrated tech tools, AI resources, and productivity systems 🚀
+🌐 Socials:
+Instagram LinkedIn [Medium](https://medium.com/@@ amanjha2309) email
+
+💻 Tech Stack:
+Python MySQL Postgres Power Bi AWS Apache Apache Airflow Matplotlib mlflow NumPy Pandas PyTorch Git
+
+📊 GitHub Stats:
+
+
+
+
+
+
